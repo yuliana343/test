@@ -1,6 +1,10 @@
 <form action="">
     <input type="code">
     <input type="name">
+<<<<<<< HEAD
     <input type="age">
+</form>
+=======
     <input type="detalles">
 </form>
+>>>>>>> 722a595298c467f8aefa133af2e57c4188a9dd9b
